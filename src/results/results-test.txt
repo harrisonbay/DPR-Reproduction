@@ -1,0 +1,4 @@
+experiment version | top-k | accuracy
+3.0	10	20
+3.0	100	80
+3.0	1000	90
