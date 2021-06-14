@@ -1,6 +1,6 @@
 # Overview
 
-This is a project that attempts to reproduce and verify the main claims of ["Dense Passage Retrieval for Open-Domain Question Answering"](https://arxiv.org/pdf/2004.04906.pdf) (Karpukhin et al., EMNLP 2020) with the final report following the format of submissions to the [ML Reproducibility Challenge](https://paperswithcode.com/rc2020). This project was done as a final project for [CSE 517 wi21](https://docs.google.com/document/d/1gBz2w79DBrGjNGq2TMqJBDIWzUGsQacWFAszZKz6OKI/edit), taught by Prof. Noah Smith.
+This is a project that attempts to reproduce and verify the main claims of ["Dense Passage Retrieval for Open-Domain Question Answering"](https://arxiv.org/pdf/2004.04906.pdf) (Karpukhin et al., EMNLP 2020) with the final report following the format of submissions to the [ML Reproducibility Challenge](https://paperswithcode.com/rc2020). This project was completed by Harrison Bay, Arnav Das, and Pemi Nguyen as a final project for [CSE 517 wi21](https://docs.google.com/document/d/1gBz2w79DBrGjNGq2TMqJBDIWzUGsQacWFAszZKz6OKI/edit), taught by Prof. Noah Smith.
 
 # Dependencies
 
